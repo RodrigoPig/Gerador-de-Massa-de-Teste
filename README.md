@@ -1,5 +1,7 @@
 # 🛠️ Gerador de Dados de Teste (Criado por Rodrigo Vargas QA Pleno • IA: Gemini 3.5 Flash)
 
+Criei esse sitema como projeto do Video aulas sobre IA. Utilizei uma demanda que sempre é um drama para nós QAs, a falta de massa para os testes.
+
 Uma ferramenta web de alta fidelidade para desenvolvedores, QAs e analistas de sistemas, projetada para a **geração rápida e em lote de dados brasileiros fictícios** realistas, além de contar com um **validador matemático em tempo real** de documentos.
 
 Este projeto foi otimizado para cenários reais de homologação e testes de estresse, oferecendo conformidade estrita com as regulamentações brasileiras mais recentes e mecanismos para testes de casos negativos.
