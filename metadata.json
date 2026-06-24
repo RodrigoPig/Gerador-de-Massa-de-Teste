@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Dados de Teste",
+  "description": "Uma ferramenta robusta para geração de dados fictícios brasileiros realistas em massa com exportação e validador em tempo real de CPFs e CNPJs alfanuméricos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
