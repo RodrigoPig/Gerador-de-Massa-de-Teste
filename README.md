@@ -1,4 +1,4 @@
-# 🛠️ Gerador de Dados de Teste
+# 🛠️ Gerador de Dados de Teste (Criado por Rodrigo Vargas QA Pleno • IA: Gemini 3.5 Flash)
 
 Uma ferramenta web de alta fidelidade para desenvolvedores, QAs e analistas de sistemas, projetada para a **geração rápida e em lote de dados brasileiros fictícios** realistas, além de contar com um **validador matemático em tempo real** de documentos.
 
